@@ -57,7 +57,7 @@
         }
         for (temp = 1; temp <= node; temp++)
         {
-            cout << "Node " << temp << ", minimum weight = " << Y[temp] << endl;
+            cout << "Node " << temp << ", minimum weight is " << Y[temp] << endl;
         }
         return 0;
     }
